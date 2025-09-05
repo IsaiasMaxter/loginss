@@ -7,7 +7,7 @@ form.addEventListener('submit', function(e) {
   const user = document.getElementById('username').value;
   const pass = document.getElementById('password').value;
 
-  if (user === "isaias" && pass === "01011990") {
+  if (user === "isaias" && pass === "2017") {
     message.style.color = "green";
     message.textContent = "Login realizado com sucesso!";
   } else {
