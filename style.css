@@ -10,7 +10,9 @@ body {
 }
 
 .logo {
-  margin-bottom: 20px;
+margin-bottom: 20px;
+height: 40px;
+width: auto;
 }
 
 .login-box {
